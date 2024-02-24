@@ -38,6 +38,13 @@ on linux:
 
 ### Contributing
 
+
+```
+git clone https://github.com/Aayush-Rajagopalan/gh-purge/tree/main
+cd gh-purge
+go install
+```
+
 ### License
 This project is licensed under the MIT license
 ### Show your support
