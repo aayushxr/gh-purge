@@ -14,6 +14,11 @@ A Quick Way to Purge (delete) all unwanted github repos that clutter your page
 
 ### Installation
 
+On windows:
+```
+iwr https://cdn.aayus.me/install/gh-purge.ps1
+```
+On Linux:
 ```
 curl -fsSL https://cdn.aayus.me/install/gh-purge.sh
 ```
